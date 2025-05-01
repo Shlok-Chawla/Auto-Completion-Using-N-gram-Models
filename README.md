@@ -22,5 +22,6 @@ Evaluation and Results – The system was tested on various textual inputs from 
 This project demonstrates the practical application of NLP principles and provides a foundation for more complex language modeling tasks such as machine translation, chatbots, and intelligent writing assistants.
 
 Links to their Kaggle Projects:
+
 1.https://www.kaggle.com/code/sauravmaheshkar/auto-completion-using-n-gram-models/input
 2.https://www.kaggle.com/datasets/crmercado/tweets-blogs-news-swiftkey-dataset-4million
