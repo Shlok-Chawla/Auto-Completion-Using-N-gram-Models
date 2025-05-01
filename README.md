@@ -20,3 +20,7 @@ Performance Enhancement – The traditional N-gram prediction approach was enhan
 Evaluation and Results – The system was tested on various textual inputs from different domains to evaluate prediction accuracy and user relevance. Improvements were observed over baseline models in terms of both performance and user satisfaction metrics.
 
 This project demonstrates the practical application of NLP principles and provides a foundation for more complex language modeling tasks such as machine translation, chatbots, and intelligent writing assistants.
+
+Links to their Kaggle Projects:
+1.https://www.kaggle.com/code/sauravmaheshkar/auto-completion-using-n-gram-models/input
+2.https://www.kaggle.com/datasets/crmercado/tweets-blogs-news-swiftkey-dataset-4million
